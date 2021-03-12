@@ -1,0 +1,3 @@
+1). Numeric for accuracy
+2). VarChar, so that you can manipulate or order by either withot affecting the other
+3).
